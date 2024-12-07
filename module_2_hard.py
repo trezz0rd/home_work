@@ -1,5 +1,6 @@
 from random import randint
-number_1 = 18
+# number_1 = randint(1, 20)
+# number_1 = int(input('Введите число от 1 до 20'))
 print(number_1)
 result = ''
 for i in range(1, 20):
